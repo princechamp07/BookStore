@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"lorem, ipum dolor sit amet constuertr adfaiijja elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720420430~exp=1720424030~hmac=0d47724a75fc83eff8deccaedc35ba30b156dbeb381b21bc179bbdc396281064&w=740"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"lorem, ipum dolor sit amet constuertr adfaiijja elit",
+        "price":20,
+        "category":"Entainment",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720420430~exp=1720424030~hmac=0d47724a75fc83eff8deccaedc35ba30b156dbeb381b21bc179bbdc396281064&w=740"
+    },
+    {
+        "id":3,
+        "name":"Sports Book",
+        "title":"lorem, ipum dolor sit amet constuertr adfaiijja elit",
+        "price":50,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720420430~exp=1720424030~hmac=0d47724a75fc83eff8deccaedc35ba30b156dbeb381b21bc179bbdc396281064&w=740"
+    },
+    {
+        "id":4,
+        "name":"Music Book",
+        "title":"lorem, ipum dolor sit amet constuertr adfaiijja elit",
+        "price":100,
+        "category":"Song",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720420430~exp=1720424030~hmac=0d47724a75fc83eff8deccaedc35ba30b156dbeb381b21bc179bbdc396281064&w=740"
+    },{
+        "id":5,
+        "name":"Food Book",
+        "title":"lorem, ipum dolor sit amet constuertr adfaiijja elit",
+        "price":200,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720420430~exp=1720424030~hmac=0d47724a75fc83eff8deccaedc35ba30b156dbeb381b21bc179bbdc396281064&w=740"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"lorem, ipum dolor sit amet constuertr adfaiijja elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720420430~exp=1720424030~hmac=0d47724a75fc83eff8deccaedc35ba30b156dbeb381b21bc179bbdc396281064&w=740"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"lorem, ipum dolor sit amet constuertr adfaiijja elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720420430~exp=1720424030~hmac=0d47724a75fc83eff8deccaedc35ba30b156dbeb381b21bc179bbdc396281064&w=740"
+    },
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":"lorem, ipum dolor sit amet constuertr adfaiijja elit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1720420430~exp=1720424030~hmac=0d47724a75fc83eff8deccaedc35ba30b156dbeb381b21bc179bbdc396281064&w=740"
+    }
+]
